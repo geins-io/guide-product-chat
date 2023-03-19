@@ -1,6 +1,8 @@
 # Introduction
 Chat with your product catalog. Simple app to get you started creating a chatbot for your product catalog.
 
+See full tutorial at [docs.geins.io](https://docs.geins.io/docs/guides/use-ai-on-your-product-catalog)
+
 ## Getting Started
 1. Clone this repo
 
