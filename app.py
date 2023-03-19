@@ -26,7 +26,7 @@ def query_and_save_to_csv(api_url, query, csv_path, api_key):
     data = pd.json_normalize(response.json()['data']['products'])
 
     # Save the DataFrame to a CSV file
-    with open(csv_path, 'w') as f:
+    with open(csv_path, 'w', encoding="utf-8") as f:
         data.to_csv(f, index=False)
 
 def construct_index(directory_path):
