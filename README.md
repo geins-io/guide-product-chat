@@ -21,6 +21,6 @@ On macOS and Linux, you may need to use `python3` instead of `python`.
 4. Open the URL that is printed in the terminal. It will look something like this: `https://12345.gradio.app`
 
 ## How it works
-This app downloads your product catalog from your Geins acciybt and uses it to train a GPT-3 model. The model is then used to generate responses to user queries.
+This app downloads your product catalog from your Geins account and uses it to train a GPT-3 model. The model is then used to generate responses to user queries.
 
 This app uses the [GPT-3 API](https://openai.com/blog/openai-api/) to generate responses to user queries.
